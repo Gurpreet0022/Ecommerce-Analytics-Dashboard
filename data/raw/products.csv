@@ -1,0 +1,41 @@
+product_id,product_name,category,cost_price,selling_price,stock_available
+P001,Cotton Kurta,Apparel,8.0,19.99,132
+P002,Formal Shirt,Apparel,12.0,34.99,465
+P003,Denim Jeans,Apparel,18.0,54.99,378
+P004,Ethnic Saree,Apparel,22.0,79.99,300
+P005,Winter Jacket,Apparel,35.0,99.99,136
+P006,Wireless Headphones,Electronics,65.0,129.99,101
+P007,Smartwatch Pro,Electronics,95.0,210.0,218
+P008,Bluetooth Speaker,Electronics,40.0,89.99,50
+P009,Laptop Stand,Electronics,20.0,49.99,132
+P010,USB-C Hub,Electronics,15.0,39.99,151
+P011,Noise Cancelling Earbuds,Electronics,80.0,159.99,496
+P012,Portable Charger,Electronics,18.0,44.99,244
+P013,Yoga Mat,Sports & Fitness,18.0,49.99,360
+P014,Running Shoes,Sports & Fitness,40.0,89.99,488
+P015,Resistance Bands Set,Sports & Fitness,8.0,24.99,117
+P016,Dumbell Pair 5kg,Sports & Fitness,20.0,54.99,402
+P017,Cycling Gloves,Sports & Fitness,10.0,29.99,129
+P018,Protein Shaker,Sports & Fitness,5.0,14.99,389
+P019,Notebook Set 5pk,Stationery,3.5,9.99,181
+P020,Gel Pen Set 12pk,Stationery,2.0,6.99,160
+P021,Sticky Notes Bulk,Stationery,2.5,7.99,179
+P022,A4 Printer Paper,Stationery,4.0,11.99,338
+P023,Desk Organiser,Stationery,8.0,22.99,287
+P024,Face Moisturiser,Beauty & Personal Care,9.0,29.99,373
+P025,Sunscreen SPF50,Beauty & Personal Care,7.0,24.99,443
+P026,Hair Serum,Beauty & Personal Care,6.0,19.99,323
+P027,Lip Balm Set,Beauty & Personal Care,3.0,9.99,415
+P028,Electric Toothbrush,Beauty & Personal Care,22.0,59.99,221
+P029,Air Purifier,Home & Kitchen,90.0,199.99,473
+P030,Coffee Maker,Home & Kitchen,45.0,109.99,306
+P031,Non-stick Pan,Home & Kitchen,18.0,49.99,190
+P032,Water Purifier Filter,Home & Kitchen,12.0,34.99,489
+P033,Bedsheet Set,Home & Kitchen,20.0,59.99,343
+P034,LED Desk Lamp,Home & Kitchen,15.0,39.99,51
+P035,Action Figure Set,Toys & Games,10.0,29.99,282
+P036,Board Game,Toys & Games,14.0,39.99,265
+P037,Building Blocks,Toys & Games,18.0,49.99,374
+P038,Remote Control Car,Toys & Games,22.0,64.99,78
+P039,Kids Painting Kit,Toys & Games,8.0,22.99,88
+P040,Jigsaw Puzzle 1000pc,Toys & Games,9.0,27.99,199
